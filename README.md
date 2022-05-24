@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">
 
 
-<p>I am an aspiring full stack developer from Veer Surendra Sai University of Technology current pursuing the third year of Computer Science Engineering. I have experience working with C, Flutter.</p>
+<p>I am an aspiring flutter developer from Veer Surendra Sai University of Technology current pursuing the third year of Computer Science Engineering. I have experience working with C, Flutter.</p>
 
 
 <p>I am a people person and love being part of communities. If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.</p>
